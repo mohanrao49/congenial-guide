@@ -1,0 +1,17 @@
+IMPORTANT: Resume File Setup
+
+To enable the "Download Resume" functionality:
+
+1. Place your resume PDF file in the images/ folder
+2. Name it exactly: resume.pdf
+3. The website will automatically link to it for download
+4. When users click "Download Resume", the file will download to their device
+
+The resume is located at: images/resume.pdf
+
+Both download buttons in the website are configured:
+- Hero section "Download Resume" button
+- Contact section "Download Resume" button
+
+Both will download the resume.pdf file from the images folder to the user's device.
+
